@@ -4,7 +4,7 @@
 
 [![Zero's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xyftw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gdstw)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gdstw)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **xyftw/xyftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

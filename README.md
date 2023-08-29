@@ -6,10 +6,6 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xyftw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Zero's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xyftw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!--
 **xyftw/xyftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

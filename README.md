@@ -1,10 +1,14 @@
 ### Hi I'm Xyfer 👋
 
+我正在孤單刷題
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gdstw?ext=heatmap)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xyftw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Zero's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xyftw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gdstw)](https://github.com/KnlnKS/leetcode-stats)
+
 
 <!--
 **xyftw/xyftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

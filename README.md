@@ -2,7 +2,7 @@
 
 我正在孤單刷題
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/gdstw?ext=heatmap)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gdstw?ext=contest)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xyftw&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
